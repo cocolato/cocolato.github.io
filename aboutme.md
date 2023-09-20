@@ -4,12 +4,24 @@ title: About me
 subtitle: 暂时没想好
 ---
 
-### Work Experience
+## Experience
 
-Bytedance 2020.4-2023.2
+### 2016.8-2020.6
+SWJTU *Student*
 
-T-head-Semi 2023.2-
+### 2019.6-2019.9
+Texas Instruments *software intern*
+### 2020.4-2023.2
+Bytedance *software engineer*
 
-### My story
+### 2023.2-now
+T-head-Semi *full stack engineer*
 
-TODO
+## My Skill
+* Python
+* Golang
+* Julia
+* Ruby
+* Parser
+* DSL
+
